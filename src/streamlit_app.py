@@ -364,7 +364,7 @@ def main():
     vectorizer_path = Path(args.vectorizer).resolve()
 
     st.set_page_config(
-        page_title="Fake News Detector · Piyush01-tech",
+        page_title="Text to Truth · Fake News Detector",
         page_icon="🛡️",
         layout="centered",
         initial_sidebar_state="collapsed",
@@ -388,7 +388,7 @@ def main():
 
     st.markdown("""
     <div class="brand-header">
-        <div class="brand-name">Piyush01-tech</div>
+        <div class="brand-name">From Text to Truth</div>
         <h1>Fake News Detector</h1>
         <div class="tagline">Paste any headline. We'll cross-check it against trusted sources worldwide.</div>
     </div>
@@ -545,7 +545,7 @@ def main():
 
     st.markdown("""
     <div class="app-footer">
-        <div class="footer-brand">Built by <span>Piyush01-tech</span></div>
+        <div class="footer-brand">Built by <span>From Text to Truth</span></div>
     </div>
     """, unsafe_allow_html=True)
 

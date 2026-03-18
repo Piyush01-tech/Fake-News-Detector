@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Paste a headline. Get the truth.</b><br>
-  Built by <a href="https://github.com/Piyush01-tech">Piyush01-tech</a>
+  Built by <a href="https://github.com/Piyush01-tech">Team Text to Truth</a>
 </p>
 
 <p align="center">

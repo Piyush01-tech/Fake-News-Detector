@@ -23,9 +23,5 @@ env/
 Thumbs.db
 desktop.ini
 
-# Outputs (large model files — regenerate with train_model.py)
-outputs/*.joblib
+# Outputs
 outputs/charts/
-
-# Data (too large for git — download separately)
-data/*.csv
